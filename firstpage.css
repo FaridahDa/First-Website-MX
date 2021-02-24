@@ -1,0 +1,47 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+      
+      font-size: 20px ; 
+      font-family: sans-serif;
+      line-height: 1.8;
+      color: black;
+  }
+
+  .bg-1 { 
+      background-color: darkgray;
+      color: black;
+  }
+
+  .bg-2 { 
+      background-color: lightgray;
+      color:white;
+  }
+
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+
+  .navbar {
+      background-color: black;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: yellow!important;
+  }
+
+  footer {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      background-color: beige;
+  }
