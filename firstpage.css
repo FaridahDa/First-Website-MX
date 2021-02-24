@@ -21,14 +21,14 @@ body {
   }
 
   .bg-1 { 
-      background-color: darkgray;
+      background-color:darkgrey;
       color: black;
+     display: inline-flex;
+     justify-content: center;
+     padding: 50px 200px;
   }
 
-  .text-left {
-      widows: 300px;
-      margin: 0 auto;
-  }
+
 
   .bg-2 { 
       background-color: lightgray;
@@ -61,4 +61,7 @@ body {
       padding-bottom: 5px;
       height:100px;
       background-color: white;
+      font-style: italic;
+      margin-bottom: 0;
+      margin-left: 20px;
   }
